@@ -1,0 +1,6 @@
+This is a project that creates a randomly generated map with roads that connect at certain intersections with different speeds.
+
+Outline:
+- Create roads that start and end at a certain point on a grid with a certain speed
+- Have these roads connect at main intersections with no more than 4 roads per intersection
+- Store the grid and each connect it has
